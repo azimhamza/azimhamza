@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Azim Hamza
 - 👀 I’m interested in Web Development, Building Effienct Methods for Logistical Tasks, Training AI
-- 🌱 University of Guelph, Comp Engineering 2nd Year.
+- 🌱 University of Guelph, Computer Engineery, 2nd Year.
 - 💞️ Yurmo, Logistical Company built to simplify your companies logistics.
 - 📫 LinkedIn: www.linkedin.com/in/azim-hamza
  
