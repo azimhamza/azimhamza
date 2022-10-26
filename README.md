@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Azim Hamza
-- 👀 I’m interested in Web Development, Personalized Service, Databases, Train Modelled AI
-- 🌱 I’m currently a Computer Engineering Student at University of Guelph
-- 💞️ Founder of Yurmo,  Fast, Easy and Reliable E-commerce Marketplace for Personalized Services
+- 👀 I’m interested in Web Development, Building Effienct Methods for Logistical Tasks, Training AI
+- 🌱 University of Guelph, Comp Engineering 2nd Year.
+- 💞️ Yurmo, Logistical Company built to simplify your companies logistics.
 - 📫 LinkedIn: www.linkedin.com/in/azim-hamza
  
 
