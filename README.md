@@ -1,6 +1,6 @@
 👋 Hi there, I'm Azim Hamza! You can find me on LinkedIn at linkedin.com/in/azim-hamza and on social media as @azimhamxa.
 
-I'm a **second-year computer engineering** student at the University of Guelph 🎓, and I'm passionate about **streamlining logical challenges, AI, and crypto technology.
+I'm a **second-year computer engineering** student at the University of Guelph 🎓, and I'm passionate about **streamlining logical challenges, AI, and crypto technology.**
 
 On my GitHub page, you'll find a few projects that showcase my interests in **streamlining logistics, AI, and crypto technology.** One of my ongoing projects is **Yurmo 🚚**, a logistical company aimed at simplifying logistics for businesses using cutting-edge technology.
 
