@@ -1,7 +1,7 @@
 **👋 Name's Azim Hamza. You can find me everywhere as @azimhamxa.**
 
-**Building** - Yurmo: Linktree for the Service Industry, simple to setup, hassle free platform to manage services. 
+**Building** - Celium: Automating Logistics for Consultancy and Contractors with R-ML. 
+**Passion ** - a Hybrid GraphQL and Vector Database to create generative idea to allow contextual reference outside of overlapping vectors.
 
-**Passion Project** - MediSearch: a GPT powered Medical Searching Index, that helps users look through information, connect ideas and lowering the barrier into the medical industry. 
-
-**Thinking about** - MappyDB: a relational vectordatabase, allowing users to map different embeddings to allow contextual reference outside of overlapping vectors. Building a BrainDB.
+Focusing on Building and Learning. Addicted to Huggingface.
+I post updates on Twitter: @azimhamxa
