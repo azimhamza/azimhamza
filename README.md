@@ -1,6 +1,6 @@
 **👋 Name's Azim Hamza. You can find me everywhere as @azimhamxa.**
 
-**Building** - Self-Reasoning AI Models. 
+**Building** - Architecture to enable LLMs and ML models usage for enterprises. 
 
 Website: azimhamxa.com
 
