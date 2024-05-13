@@ -1,6 +1,6 @@
 **👋 Name's Azim Hamza. You can find me everywhere as @azimhamxa.**
 
-**Building** - Trying to Understand Regulations with Machine Learning Models.
+**Building** - system to change how we interact with the world. 
 
 Website: azimhamxa.com
 
